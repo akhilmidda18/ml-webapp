@@ -1,10 +1,9 @@
-Flask                     # For the Flask web framework
-gunicorn                  # WSGI server to serve the Flask app
-numpy                     # For numerical operations
-pandas                    # For data manipulation and analysis
-matplotlib                # For plotting (if you're generating plots)
-scikit-learn              # For machine learning model training and utilities
-tensorflow                # For deep learning (TensorFlow framework)
-tensorflow-hub            # For using pre-trained models and modules from TensorFlow Hub
-imbalanced-learn          # For handling imbalanced datasets (includes RandomOverSampler)
+Flask
+gunicorn
+numpy
+pandas
+matplotlib
+scikit-learn
 tensorflow-cpu
+tensorflow-hub
+imbalanced-learn
