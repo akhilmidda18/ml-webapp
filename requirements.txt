@@ -7,3 +7,4 @@ scikit-learn              # For machine learning model training and utilities
 tensorflow                # For deep learning (TensorFlow framework)
 tensorflow-hub            # For using pre-trained models and modules from TensorFlow Hub
 imbalanced-learn          # For handling imbalanced datasets (includes RandomOverSampler)
+tensorflow-cpu
